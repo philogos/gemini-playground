@@ -1,5 +1,5 @@
 const WEBSOCKET_TIMEOUT = 10000; // WebSocket 超时时间（10 秒）
-const API_TIMEOUT = 15000; // API 请求超时时间（15 秒）
+const API_TIMEOUT = 150000; // API 请求超时时间（150 秒）
 const CACHE_TTL = 3600; // 静态资源缓存时间（1 小时）
 
 export default {
